@@ -12,6 +12,18 @@ This project is designed to practice the use of Pandas and Matplotlib library in
 ## Tool ##
 Python (Jupyter Notebook): Matplotlib
 ## Visualization ##
+* Tumor Response to Treatment<br>
+<img src="Images/treatment.png"><br>
+
+* Metastatic Spread During Treatment<br>
+<img src="Images/spread.png">
+
+* Survival During Treatment<br>
+<img src="Images/survival.png">
+
+* Tumor Change over 45 Days Treatment<br>
+<img src="Images/change.png"><br>
+
 
 ## Contact ##
 Email: xinlianghuang85@gmail.com
