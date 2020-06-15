@@ -16,10 +16,10 @@ Python (Jupyter Notebook): Matplotlib
 <img src="Pymaceuticals/Images/treatment.png"><br>
 
 * Metastatic Spread During Treatment<br>
-<img src="Pymaceuticals/Images/spread.png">
+<img src="Pymaceuticals/Images/spread.png"><br>
 
 * Survival During Treatment<br>
-<img src="Pymaceuticals/Images/survival.png">
+<img src="Pymaceuticals/Images/survival.png"><br>
 
 * Tumor Change over 45 Days Treatment<br>
 <img src="Pymaceuticals/Images/change.png"><br>
