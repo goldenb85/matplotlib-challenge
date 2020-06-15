@@ -7,6 +7,7 @@ This project is designed to practice the use of Pandas and Matplotlib library in
 * Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 * Include 3 observations about the results of the study. Use the visualizations you generated from the study data as the basis for your observations.
 ## Data Source ##
+* [Clinical-trial](data/clinicaltrial_data.csv)
 
 ## Tool ##
 Python (Jupyter Notebook): Matplotlib
